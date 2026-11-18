@@ -14,7 +14,7 @@
 
 ---
 
-### 🏆 Verified Certifications
+###  Verified Certifications
 
 [![AWS SAA-C03](https://img.shields.io/badge/AWS_Solutions_Architect-SAA--C03-FF9900?style=for-the-badge)](https://aws.amazon.com/certification/)
 [![AZ-400](https://img.shields.io/badge/Microsoft_DevOps_Expert-AZ--400-0078D4?style=for-the-badge)](https://learn.microsoft.com/en-us/credentials/)
@@ -23,7 +23,7 @@
 
 ---
 
-### 🚀 Production Impact (What I Have Actually Shipped)
+###  Production Impact (What I Have Actually Shipped)
 
 | Company / Product | What I Built & Hardened | Key Stack |
 | :--- | :--- | :--- |
@@ -34,7 +34,7 @@
 
 ---
 
-### 🛠️ Technical Arsenal
+###  Tech Stack
 
 **Cloud & Infrastructure as Code**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
@@ -66,7 +66,7 @@
 
 ---
 
-### ⚡ How I Operate in Production
+###  How I Operate in Production
 
 1. **Security by default:** No credentials in deployment manifests, no exposed host Docker sockets, least-privilege IAM everywhere.
 2. **Automate everything repeatable:** Terraform and Ansible for infrastructure, automated custom-domain HTTPS/TLS and stale route cleanup, zero manual clicking in prod.
