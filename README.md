@@ -1,6 +1,6 @@
 <div align="center">
 
-# Maryam Abdulrauf
+# Maryam Abdulrauf 
 ### DevOps, Cloud Security & Platform Infrastructure Engineer · Lagos, Nigeria
 
 [![Email](https://img.shields.io/badge/Email-abdulraufmaryam15%40gmail.com-D14836?style=for-the-badge)](mailto:abdulraufmaryam15@gmail.com)
@@ -75,5 +75,5 @@
 ---
 
 <div align="center">
-  <b>Open to DevOps, Platform, SRE, and DevSecOps roles (Lagos & Remote)</b>
+  <b>Open to DevOps, Cloud, Platform, SRE, and DevSecOps roles (Lagos & Remote)</b>
 </div>
